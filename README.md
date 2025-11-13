@@ -29,3 +29,8 @@ Example Queries:
 - "Should I sell TSLA?"
 - "Does AAPL pay dividends?"
 - "Show me recent news about MSFT"
+
+## Run FinBot in Google Colab
+Click below to open and try FinBot instantly, no setup needed!
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JOxTDmsAj9rsdYw4iW7NYMKuZ0Xk7QyJ?usp=sharing)
